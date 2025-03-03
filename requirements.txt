@@ -1,0 +1,12 @@
+diffusers
+transformers
+accelerate
+scipy
+ftfy
+torch==2.5.1
+torchvision
+Pillow==9.4.0
+numpy==1.24.2
+wandb==0.17.0
+numpy
+packaging
