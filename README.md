@@ -19,4 +19,5 @@ Additionally, we suggest an improved attention module that emphasizes preserving
 </p> 
 
 Pixel Piper performed better in text-to-image similarity compared to baseline models. While STORY DIFFUSION was more character similar, the aggregate measure of text-to-image and character similarity indicated that Pixel Piper had a better-balanced and ultimately more effective representation of the intended textual and character- specific information. With Human Evaluation it shows that Pixel Piper is SOTA.
-∗ marks the Text-to-Image Similarity. † marks the percentage of most convincing images.
+
+<i>∗ marks the Text-to-Image Similarity. † marks the percentage of most convincing images.</i>
