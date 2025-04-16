@@ -5,3 +5,18 @@ Additionally, we suggest an improved attention module that emphasizes preserving
 <p align="center">
     <img src="images/Architecture.png", style="width: 650px; height: 400px;"/></center>
 </p>
+<p align="center">
+    Fig. 1 Overview of Pixel Piper to generating feature consistent images.
+</p> 
+
+# Results
+
+<p align="center">
+    <img src="images/results.png", style="width: 650px; height: 400px;"/></center>
+</p>
+<p align="center">
+    Fig. 2 Similarity Comparisons of generated images.
+</p> 
+
+Pixel Piper performed better in text-to-image similarity compared to baseline models. While STORY DIFFUSION was more character similar, the aggregate measure of text-to-image and character similarity indicated that Pixel Piper had a better-balanced and ultimately more effective representation of the intended textual and character- specific information. With Human Evaluation it shows that Pixel Piper is SOTA.
+∗ marks the Text-to-Image Similarity. † marks the percentage of most convincing images.
