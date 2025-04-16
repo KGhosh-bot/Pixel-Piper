@@ -12,7 +12,7 @@ Additionally, we suggest an improved attention module that emphasizes preserving
 # Results
 
 <p align="center">
-    <img src="images/results.png", style="width: 950px; height: 300px;"/></center>
+    <img src="images/results.png", style="width: 850px; height: 200px;"/></center>
 </p>
 <p align="center">
     Fig. 2 Similarity Comparisons of generated images.
